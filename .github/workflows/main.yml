@@ -1,0 +1,3 @@
+#yml 형식으로
+# 서울 날씨를 5분마다 csv로 저장
+name: Seoul Weather Data per 5m
